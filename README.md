@@ -5,7 +5,9 @@ REG NO: 212225220029
 
 AIM:
 To enable and analyze AWS cloud Trails logs to audit user and resource activities in a cloud environment
-Requirements
+
+Requirements:
+
 AWS Console access CloudTrail service enabled S3 bucket (for storing logs) IAM permissions to view audit logs
 
 Procedure
